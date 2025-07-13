@@ -166,7 +166,7 @@
     box-shadow: 0 4px 20px rgba(0, 0, 0, 0.15);
 }
 
-.mobile-nav::after{
+.mobile-nav::before{
     content: '';
     position: absolute;
     top: 0;
@@ -177,6 +177,7 @@
     background-size: cover;
     background-position: center;
     background-repeat: repeat;
+    z-index: -1;
 }
 
 .mobile-nav.active {
