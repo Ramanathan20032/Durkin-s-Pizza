@@ -1,0 +1,242 @@
+{
+  "menu": [
+    {
+      "menu-category": "Made-to-Order Pizzas",
+      "menu-category-desc": "Fresh dough made daily with premium ingredients",
+      "menu-image": "/img/menu-items/madetoOrderPizzas.png",
+      "menu-items": [
+        {
+          "menu-item-name": "Small 10",
+          "menu-item-price": "$7.99",
+          "menu-item-desc": "Perfect for individual servings"
+        },
+        {
+          "menu-item-name": "Medium 14",
+          "menu-item-price": "$15.99",
+          "menu-item-desc": "Great for sharing with friends"
+        },
+        {
+          "menu-item-name": "Large 16",
+          "menu-item-price": "$17.99",
+          "menu-item-desc": "Family size for the whole crew"
+        },
+        {
+          "menu-item-name": "Rice Flour Crust",
+          "menu-item-price": "$10.99",
+          "menu-item-desc": "Gluten-free option"
+        },
+        {
+          "menu-item-name": "Ancient Grains Crust",
+          "menu-item-price": "$13.99",
+          "menu-item-desc": "Nutritious and delicious"
+        },
+        {
+          "menu-item-name": "Cauliflower Crust",
+          "menu-item-price": "$13.99",
+          "menu-item-desc": "Low-carb alternative"
+        },
+        {
+          "menu-item-name": "Toppings Regular",
+          "menu-item-price": "$2.25 each",
+          "menu-item-desc": "Italian sausage, Canadian bacon, hamburger, pork sausage, pepperoni, green peppers, cherry tomatoes, green olives, black olives, red/white onions, shredded cheese, extra cheese, roasted red peppers, mushrooms, jalapeños, pineapple, spinach, basil, artichoke"
+        },
+        {
+          "menu-item-name": "Toppings Premium",
+          "menu-item-price": "$2.75 each",
+          "menu-item-desc": "Bacon, chicken, chorizo, meatballs, anchovy"
+        }
+      ]
+    },
+    {
+      "menu-category": "Specialty Pizzas",
+      "menu-category-desc": "Gourmet combinations crafted by our chefs",
+      "menu-image": "/img/menu-items/specialtyPizzas.png",
+      "menu-items": [
+        {
+          "menu-item-name": "The Alfredo",
+          "menu-item-price": "+$1.50 to +$2.50",
+          "menu-item-desc": "Creamy white sauce with grilled chicken and garlic"
+        },
+        {
+          "menu-item-name": "Four Cheese",
+          "menu-item-price": "+$5.00",
+          "menu-item-desc": "Mozzarella, cheddar, parmesan, and feta cheese"
+        },
+        {
+          "menu-item-name": "Meat Lovers",
+          "menu-item-price": "+$6.00",
+          "menu-item-desc": "Pepperoni, sausage, ham, and bacon"
+        },
+        {
+          "menu-item-name": "Chorizo Supreme",
+          "menu-item-price": "+$6.00",
+          "menu-item-desc": "Spicy chorizo with peppers and onions"
+        },
+        {
+          "menu-item-name": "BBQ Chicken",
+          "menu-item-price": "+$6.00",
+          "menu-item-desc": "BBQ sauce base with grilled chicken"
+        },
+        {
+          "menu-item-name": "Buffalo Chicken",
+          "menu-item-price": "+$6.00",
+          "menu-item-desc": "Spicy buffalo sauce with tender chicken"
+        },
+        {
+          "menu-item-name": "Veggie Delight",
+          "menu-item-price": "+$6.00",
+          "menu-item-desc": "Vegetables and herbs"
+        },
+        {
+          "menu-item-name": "Kitchen Sink",
+          "menu-item-price": "+$9.00",
+          "menu-item-desc": "Everything but the kitchen sink!"
+        }
+      ]
+    },
+    {
+      "menu-category": "Indian Specialty Pizzas",
+      "menu-category-desc": "Authentic Indian flavors on pizza",
+      "menu-image": "/img/menu-items/indianSpecialtyPizzas.png",
+      "menu-items": [
+        {
+          "menu-item-name": "Paneer Tikka",
+          "menu-item-price": "+$7.00",
+          "menu-item-desc": "Marinated paneer with Indian spices"
+        },
+        {
+          "menu-item-name": "Chicken Tikka",
+          "menu-item-price": "+$7.50",
+          "menu-item-desc": "Tandoori chicken with aromatic spices"
+        }
+      ]
+    },
+    {
+      "menu-category": "Baked Chicken Wings",
+      "menu-category-desc": "Crispy wings with your favorite flavors",
+      "menu-image": "/img/menu-items/bakedChickenWings.png",
+      "menu-items": [
+        {
+          "menu-item-name": "6 Wings",
+          "menu-item-price": "$9.99",
+          "menu-item-desc": "Perfect starter portion"
+        },
+        {
+          "menu-item-name": "12 Wings",
+          "menu-item-price": "$18.99",
+          "menu-item-desc": "Great for sharing"
+        },
+        {
+          "menu-item-name": "20 Wings",
+          "menu-item-price": "$26.99",
+          "menu-item-desc": "Party size portion"
+        }
+      ]
+    },
+    {
+      "menu-category": "Sandwiches & Calzones",
+      "menu-category-desc": "Hearty handheld favorites",
+      "menu-image": "/img/menu-items/sandwichesCalzones.png",
+      "menu-items": [
+        {
+          "menu-item-name": "Pizza Topping Sandwich",
+          "menu-item-price": "$9.99",
+          "menu-item-desc": "Your favorite pizza toppings in sandwich form"
+        },
+        {
+          "menu-item-name": "Calzone",
+          "menu-item-price": "$10.99",
+          "menu-item-desc": "Folded pizza filled with cheese and toppings"
+        },
+        {
+          "menu-item-name": "Meatball Sub",
+          "menu-item-price": "$8.99",
+          "menu-item-desc": "Homemade meatballs in marinara sauce"
+        }
+      ]
+    },
+    {
+      "menu-category": "Pasta & Bread",
+      "menu-category-desc": "Italian classics made fresh",
+      "menu-image": "/img/menu-items/pastaBread.png",
+      "menu-items": [
+        {
+          "menu-item-name": "Cheesy Bread",
+          "menu-item-price": "$6.75",
+          "menu-item-desc": "Warm bread with melted cheese"
+        },
+        {
+          "menu-item-name": "Spaghetti",
+          "menu-item-price": "$9.99",
+          "menu-item-desc": "Classic spaghetti with marinara. Add Meatballs +$2.75"
+        },
+        {
+          "menu-item-name": "Fettuccine Alfredo",
+          "menu-item-price": "$9.99",
+          "menu-item-desc": "Creamy alfredo sauce over fettuccine. Add Chicken/Sausage/Spinach +$2.75"
+        }
+      ]
+    },
+    {
+      "menu-category": "Fresh Salads",
+      "menu-category-desc": "Crisp greens and fresh ingredients",
+      "menu-image": "/img/menu-items/freshSalads.png",
+      "menu-items": [
+        {
+          "menu-item-name": "Half Salad",
+          "menu-item-price": "$5.99",
+          "menu-item-desc": "Arugula, Caesar, Greek, Italian Chopped, or House"
+        },
+        {
+          "menu-item-name": "Full Salad",
+          "menu-item-price": "$9.99",
+          "menu-item-desc": "Arugula, Caesar, Greek, Italian Chopped, or House. Add Chicken +$2.75 (Half) / +$3.75 (Full)"
+        }
+      ]
+    },
+    {
+      "menu-category": "Sweet Desserts",
+      "menu-category-desc": "Perfect ending to your meal",
+      "menu-image": "/img/menu-items/sweetDesserts.png",
+      "menu-items": [
+        {
+          "menu-item-name": "Cinnamon Ugly Bread",
+          "menu-item-price": "$6.99",
+          "menu-item-desc": "Sweet cinnamon bread with icing"
+        },
+        {
+          "menu-item-name": "Marshmallow Messy Bread",
+          "menu-item-price": "$8.99",
+          "menu-item-desc": "Decadent bread with marshmallows"
+        },
+        {
+          "menu-item-name": "New York Cheesecake",
+          "menu-item-price": "$6.99",
+          "menu-item-desc": "Classic creamy cheesecake"
+        }
+      ]
+    },
+    {
+      "menu-category": "Beverages",
+      "menu-category-desc": "Drinks to complement your meal",
+      "menu-image": "/img/menu-items/beverages.png",
+      "menu-items": [
+        {
+          "menu-item-name": "Draft Beers",
+          "menu-item-price": "$4.50 to $4.99",
+          "menu-item-desc": "Blue Moon, Bud Light, and more"
+        },
+        {
+          "menu-item-name": "Wine by Glass",
+          "menu-item-price": "$6.99",
+          "menu-item-desc": "Selection of red and white wines"
+        },
+        {
+          "menu-item-name": "Wine by Bottle",
+          "menu-item-price": "$30.00",
+          "menu-item-desc": "Premium wine selection"
+        }
+      ]
+    }
+  ]
+}
